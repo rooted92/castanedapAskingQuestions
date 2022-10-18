@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\bin\Debug\net6.0\pcastanedaAskingQuestions.exe
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\bin\Debug\net6.0\pcastanedaAskingQuestions.deps.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\bin\Debug\net6.0\pcastanedaAskingQuestions.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\bin\Debug\net6.0\pcastanedaAskingQuestions.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\bin\Debug\net6.0\pcastanedaAskingQuestions.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\pcastanedaAskingQuestions.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\pcastanedaAskingQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\pcastanedaAskingQuestions.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\pcastanedaAskingQuestions.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\pcastanedaAskingQuestions.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\pcastanedaAskingQuestions.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\refint\pcastanedaAskingQuestions.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\pcastanedaAskingQuestions.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\pcastanedaAskingQuestions.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaAskingQuestions\obj\Debug\net6.0\ref\pcastanedaAskingQuestions.dll

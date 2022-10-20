@@ -7,14 +7,41 @@ bool run = true;
 
 while(run)
 {
-    string q1;
-    string q2;
+    string q1 = "";
+    string q2 = "";
     bool validation = true;
+    bool wordValid = false;
+    bool secWordValid = false;
     string userInput;
     Console.WriteLine("Hello, what is your name?");
-    q1 = Console.ReadLine();
+    while(!wordValid)
+    {
+        q1 = Console.ReadLine();
+        bool isAlpha = q1.All(Char.IsLetter);
+        if(isAlpha == false || string.IsNullOrEmpty(q1))
+        {
+            Console.WriteLine("Invalid Entry!");
+            wordValid = false;
+        }
+        else
+        {
+            wordValid = true;
+        }
+    }
     Console.WriteLine("What time did you wake up?");
-    q2 = Console.ReadLine();
+    while(!secWordValid)
+    { 
+        q2 = Console.ReadLine();
+        if(string.IsNullOrEmpty(q2))
+        {
+            Console.WriteLine("Invalid Entry!");
+            secWordValid = false;
+        }
+        else
+        {
+            secWordValid = true;
+        }
+    }
     Console.WriteLine($"Woah {q1}! {q2} is pretty early there fella!");
     Console.WriteLine();
     Console.WriteLine("Would you like to run this program again? (yes/no)");
